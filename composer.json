@@ -10,5 +10,8 @@
             "name": "geo kiragiannis",
             "email": "geo@kiragiannis.com"
         }
-    ]
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
 }
