@@ -1,0 +1,14 @@
+{
+    "name": "readytocloud/geos-plugin-integration",
+    "description": "a basic plugin to show how integration can work",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "authors": [
+        {
+            "name": "geo kiragiannis",
+            "email": "geo@kiragiannis.com"
+        }
+    ]
+}
